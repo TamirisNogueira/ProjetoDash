@@ -1,4 +1,4 @@
-![PROJETO SALES](https://github.com/TamirisNogueira/Project/blob/main/dashboard.jpg)
+![PROJETO SALES](https://github.com/TamirisNogueira/ProjetoDash/blob/main/dashboard.jpg)
 
 
 # Sales Analysis Dash
