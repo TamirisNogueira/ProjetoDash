@@ -1,6 +1,3 @@
-![PROJETO SALES](https://github.com/TamirisNogueira/ProjetoDash/blob/main/dashboard.jpg)
-
-
 # Sales Analysis Dash
 
 Dashboard para análise de métricas e vendas de um call center feito com Python.
